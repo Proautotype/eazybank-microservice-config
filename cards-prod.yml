@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 cards:
-  message: "Welcome to EazyBank CARDS prod related dev APIs "
+  message: "Welcome to EazyBank CARDS Production related dev APIs "
   contactDetails:
     name: "Proauto - Product Owner"
     email: "pro@eazybank.com"
