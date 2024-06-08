@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to EazyBank LOANS PRODUCTION related APIs "
+  message: "Welcome to EazyBank LOANS prod related APIs "
   contactDetails:
     name: "Product Owen - Product Owner"
     email: "loans.product.owner@eazybank.com"
