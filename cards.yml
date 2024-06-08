@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to EazyBank CARDS dev related APIs "
+  contactDetails:
+    name: "Card Owen - developer"
+    email: "cards@eazybank.com"
+  onCallSupport:
+    - (100) 120-1234
+    - (100) 573-1375
