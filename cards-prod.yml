@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to EazyBank CARDS special webhook prod related dev APIs "
+  contactDetails:
+    name: "Proauto - Product Owner"
+    email: "pro@eazybank.com"
+  onCallSupport:
+    - (200) 120-1234
+    - (200) 573-1375

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related heaven-made webhook prod automation APIs "
+  contactDetails:
+    name: "Boss Owner - Product Owner"
+    email: "{cipher}05746c8ede121e552be373e7dd5452e300f2e1aebf9c8d34737ff8ec4ace9d5bd5d3dc7344346d527195f155fbc709da"
+  onCallSupport:
+    - (145) 987-1234
+    - (210) 573-1375
